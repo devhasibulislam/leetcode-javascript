@@ -1,0 +1,9 @@
+{
+  "name": "leetcode-javascript",
+  "version": "1.0.0",
+  "description": "Solve LeetCode problems using JavaScript to get extra edge on programming experience.",
+  "repository": "https://github.com/hasibulislam999/leetcode-javascript",
+  "author": "Hasibul Islam",
+  "license": "MIT",
+  "private": true
+}
