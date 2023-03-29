@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "Hasibul",
+    "hierholzer",
+    "indegree",
+    "inorder",
+    "leetcode",
+    "nums",
+    "outdegree",
+    "strs",
+    "traverese"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
