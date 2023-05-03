@@ -15,7 +15,8 @@
     "seperate",
     "strs",
     "Subarrays",
-    "traverese"
+    "traverese",
+    "unchoose"
   ],
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
