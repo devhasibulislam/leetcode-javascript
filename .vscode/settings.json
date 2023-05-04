@@ -2,8 +2,12 @@
   "cSpell.words": [
     "Camelcase",
     "consec",
+    "Costi",
     "customfunction",
+    "Dota",
+    "fromi",
     "Hasibul",
+    "heapify",
     "hierholzer",
     "indegree",
     "inorder",
@@ -16,7 +20,8 @@
     "strs",
     "Subarrays",
     "traverese",
-    "unchoose"
+    "unchoose",
+    "weighti"
   ],
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
